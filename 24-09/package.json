@@ -1,0 +1,19 @@
+{
+  "name": "24-09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3"
+  }
+}
